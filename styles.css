@@ -124,4 +124,8 @@ ul, ol {
     main img {
         width: 375px;
     }
+
+    .macronutrients * {
+        text-indent: -15px;
+    }
 }
